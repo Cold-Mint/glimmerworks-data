@@ -1,10 +1,10 @@
 [
   {
-    "key": "dataPacksName",
+    "resourceKey": "dataPacksName",
     "value": "GlimmerWorks"
   },
   {
-    "key": "dataPacksDescription",
+    "resourceKey": "dataPacksDescription",
     "value": "The official core data pack for GlimmerWorks, providing essential game definitions and content."
   }
 ]
