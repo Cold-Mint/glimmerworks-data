@@ -2,13 +2,15 @@
   "id": "45673128-fd78-4bce-93e7-0d32eec0fd90",
   "name": {
     "packId": "self",
-    "resourceType": "string",
-    "resourceKey": "dataPacksName"
+    "resourceType": 1,
+    "resourceKey": "dataPacksName",
+    "fallback": "dataPacksName"
   },
   "description": {
     "packId": "self",
-    "resourceType": "string",
-    "resourceKey": "dataPacksName"
+    "resourceType": 1,
+    "resourceKey": "dataPacksDescription",
+    "fallback": "dataPacksName"
   },
   "resPack": false,
   "author": "Cold-Mint",
