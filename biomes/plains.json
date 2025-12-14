@@ -1,0 +1,21 @@
+{
+  "resourceKey": "plains",
+  "tilePlacerRefs": [
+    {
+      "id": "FillTilePlacer",
+      "tiles": [
+        {
+          "packId": "@self",
+          "resourceType": 2,
+          "resourceKey": "dirt"
+        }
+      ],
+      "config": ""
+    }
+  ],
+  "humidity": 0.5,
+  "temperature": 0.5,
+  "weirdness": 0,
+  "erosion": 1,
+  "elevation": 0.5
+}

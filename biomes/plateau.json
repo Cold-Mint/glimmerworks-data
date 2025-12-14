@@ -1,0 +1,21 @@
+{
+  "resourceKey": "plateau",
+  "tilePlacerRefs": [
+    {
+      "id": "FillTilePlacer",
+      "tiles": [
+        {
+          "packId": "@self",
+          "resourceType": 2,
+          "resourceKey": "snow"
+        }
+      ],
+      "config": ""
+    }
+  ],
+  "humidity": 0.4,
+  "temperature": 0.3,
+  "weirdness": 0,
+  "erosion": 1,
+  "elevation": 0.7
+}

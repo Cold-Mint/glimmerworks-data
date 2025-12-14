@@ -1,0 +1,5 @@
+{
+  "resourceKey": "grass",
+  "texture": "tiles/grass.png",
+  "physicsType": 1
+}

@@ -1,0 +1,5 @@
+{
+  "resourceKey": "dirt",
+  "texture": "tiles/dirt.png",
+  "physicsType": 1
+}

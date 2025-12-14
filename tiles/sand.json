@@ -1,0 +1,5 @@
+{
+  "resourceKey": "sand",
+  "texture": "tiles/sand.png",
+  "physicsType": 1
+}
