@@ -1,5 +1,16 @@
 {
+  "name": {
+    "packId": "@self",
+    "resourceType": 1,
+    "resourceKey": "snow"
+  },
+  "description": {
+    "packId": "@self",
+    "resourceType": 1,
+    "resourceKey": "snow_description"
+  },
   "resourceKey": "snow",
   "texture": "tiles/snow.png",
-  "physicsType": 1
+  "physicsType": 1,
+  "layerType": 0
 }

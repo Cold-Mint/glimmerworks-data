@@ -3,14 +3,12 @@
   "name": {
     "packId": "@self",
     "resourceType": 1,
-    "resourceKey": "dataPacksName",
-    "fallback": "dataPacksName"
+    "resourceKey": "dataPacksName"
   },
   "description": {
     "packId": "@self",
     "resourceType": 1,
-    "resourceKey": "dataPacksDescription",
-    "fallback": "dataPacksName"
+    "resourceKey": "dataPacksDescription"
   },
   "resPack": false,
   "author": "Cold-Mint",

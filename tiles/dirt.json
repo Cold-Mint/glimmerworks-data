@@ -1,5 +1,16 @@
 {
+  "name": {
+    "packId": "@self",
+    "resourceType": 1,
+    "resourceKey": "dirt"
+  },
+  "description": {
+    "packId": "@self",
+    "resourceType": 1,
+    "resourceKey": "dirt_description"
+  },
   "resourceKey": "dirt",
   "texture": "tiles/dirt.png",
-  "physicsType": 1
+  "physicsType": 1,
+  "layerType": 0
 }

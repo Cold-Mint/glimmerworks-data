@@ -6,5 +6,37 @@
   {
     "resourceKey": "dataPacksDescription",
     "value": "微光工坊官方核心数据包，提供游戏的基础定义和内容。"
+  },
+  {
+    "resourceKey": "dirt",
+    "value": "泥土"
+  },
+  {
+    "resourceKey": "dirt_description",
+    "value": "普通的泥土，可以用于种植或建筑。"
+  },
+  {
+    "resourceKey": "grass",
+    "value": "草地"
+  },
+  {
+    "resourceKey": "grass_description",
+    "value": "长满青草的土地，常见于温带地区。"
+  },
+  {
+    "resourceKey": "sand",
+    "value": "沙子"
+  },
+  {
+    "resourceKey": "sand_description",
+    "value": "松散的沙粒，常见于沙漠或海滩。"
+  },
+  {
+    "resourceKey": "snow",
+    "value": "雪"
+  },
+  {
+    "resourceKey": "snow_description",
+    "value": "寒冷地区的积雪，会降低移动速度。"
   }
 ]

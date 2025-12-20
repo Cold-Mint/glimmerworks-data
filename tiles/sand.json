@@ -1,5 +1,16 @@
 {
+  "name": {
+    "packId": "@self",
+    "resourceType": 1,
+    "resourceKey": "sand"
+  },
+  "description": {
+    "packId": "@self",
+    "resourceType": 1,
+    "resourceKey": "sand_description"
+  },
   "resourceKey": "sand",
   "texture": "tiles/sand.png",
-  "physicsType": 1
+  "physicsType": 1,
+  "layerType": 0
 }
