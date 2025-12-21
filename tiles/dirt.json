@@ -12,5 +12,7 @@
   "resourceKey": "dirt",
   "texture": "tiles/dirt.png",
   "physicsType": 1,
+  "hardness": 0.6,
+  "breakable": true,
   "layerType": 0
 }
