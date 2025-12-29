@@ -1,0 +1,16 @@
+{
+  "resourceKey": "dig",
+  "texture": "items/pickaxe.png",
+  "name": {
+    "packId": "@self",
+    "resourceType": 1,
+    "resourceKey": "dig"
+  },
+  "description": {
+    "packId": "@self",
+    "resourceType": 1,
+    "resourceKey": "dig_description"
+  },
+  "canUseAlone": true,
+  "ability": "dig"
+}

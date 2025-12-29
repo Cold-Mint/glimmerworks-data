@@ -38,5 +38,21 @@
   {
     "resourceKey": "snow_description",
     "value": "Snow accumulation in cold regions can slow down movement speed."
+  },
+  {
+    "resourceKey": "wooden_pickaxe",
+    "value": "wooden pickaxe"
+  },
+  {
+    "resourceKey": "wooden_pickaxe_description",
+    "value": "A pick made of wood"
+  },
+  {
+    "resourceKey": "dig",
+    "value": "dig"
+  },
+  {
+    "resourceKey": "dig_description",
+    "value": "dig module"
   }
 ]

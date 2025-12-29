@@ -38,5 +38,21 @@
   {
     "resourceKey": "snow_description",
     "value": "寒冷地区的积雪，会降低移动速度。"
+  },
+  {
+    "resourceKey": "wooden_pickaxe",
+    "value": "木镐"
+  },
+  {
+    "resourceKey": "wooden_pickaxe_description",
+    "value": "木头制作的镐子"
+  },
+  {
+    "resourceKey": "dig",
+    "value": "挖掘"
+  },
+  {
+    "resourceKey": "dig_description",
+    "value": "挖掘模块"
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "resourceKey": "plateau",
+  "resourceKey": "desert",
   "tilePlacerRefs": [
     {
-      "id": "FillTilePlacer",
+      "id": "fillTilePlacer",
       "tiles": [
         {
           "packId": "@self",

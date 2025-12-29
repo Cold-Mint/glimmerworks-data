@@ -2,7 +2,7 @@
   "resourceKey": "plateau",
   "tilePlacerRefs": [
     {
-      "id": "FillTilePlacer",
+      "id": "fillTilePlacer",
       "tiles": [
         {
           "packId": "@self",
