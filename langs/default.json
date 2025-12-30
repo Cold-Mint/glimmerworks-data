@@ -48,11 +48,19 @@
     "value": "A pick made of wood"
   },
   {
-    "resourceKey": "dig",
-    "value": "dig"
+    "resourceKey": "simple_dig",
+    "value": "Simple dig module"
   },
   {
-    "resourceKey": "dig_description",
-    "value": "dig module"
+    "resourceKey": "simple_dig_description",
+    "value": "Although not very efficient, it is stable and durable."
+  },
+  {
+    "resourceKey": "standard_dig",
+    "value": "Standard dig module"
+  },
+  {
+    "resourceKey": "standard_dig_description",
+    "value": "Standard mining module, with balanced performance and stable efficiency."
   }
 ]

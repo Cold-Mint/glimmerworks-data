@@ -48,11 +48,19 @@
     "value": "木头制作的镐子"
   },
   {
-    "resourceKey": "dig",
-    "value": "挖掘"
+    "resourceKey": "simple_dig",
+    "value": "简易挖掘模块"
   },
   {
-    "resourceKey": "dig_description",
-    "value": "挖掘模块"
+    "resourceKey": "simple_dig_description",
+    "value": "虽然效率不高，但是稳定耐用。"
+  },
+  {
+    "resourceKey": "standard_dig",
+    "value": "标准挖掘模块"
+  },
+  {
+    "resourceKey": "standard_dig_description",
+    "value": "标准挖掘模块，性能均衡，效率稳定。"
   }
 ]
