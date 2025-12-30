@@ -10,7 +10,9 @@
           "resourceKey": "dirt"
         }
       ],
-      "config": ""
+      "config": {
+        "definition": []
+      }
     }
   ],
   "humidity": 0.5,

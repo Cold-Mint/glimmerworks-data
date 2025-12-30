@@ -10,7 +10,9 @@
           "resourceKey": "sand"
         }
       ],
-      "config": ""
+      "config": {
+        "definition": []
+      }
     }
   ],
   "humidity": 0.2,

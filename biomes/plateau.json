@@ -10,7 +10,9 @@
           "resourceKey": "snow"
         }
       ],
-      "config": ""
+      "config": {
+        "definition": []
+      }
     }
   ],
   "humidity": 0.4,

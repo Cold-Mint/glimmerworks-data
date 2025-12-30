@@ -13,11 +13,13 @@
   },
   "canUseAlone": false,
   "ability": "dig",
-  "abilityData": [
-    {
-      "key": "efficiency",
-      "type": 1,
-      "value": "0.7"
-    }
-  ]
+  "abilityConfig": {
+    "definition": [
+      {
+        "key": "efficiency",
+        "type": 1,
+        "value": "0.7"
+      }
+    ]
+  }
 }
