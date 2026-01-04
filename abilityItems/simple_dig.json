@@ -1,6 +1,6 @@
 {
   "resourceKey": "simple_dig",
-  "texture": "items/pickaxe.png",
+  "texture": "items/simple_dig.png",
   "name": {
     "packId": "@self",
     "resourceType": 1,
