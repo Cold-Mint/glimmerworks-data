@@ -1,0 +1,66 @@
+[
+  {
+    "resourceKey": "dataPacksName",
+    "value": "グリマーワークス"
+  },
+  {
+    "resourceKey": "dataPacksDescription",
+    "value": "グリマーワークス公式コアデータパックです。ゲームの基本定義とコンテンツを提供します。"
+  },
+  {
+    "resourceKey": "dirt",
+    "value": "土"
+  },
+  {
+    "resourceKey": "dirt_description",
+    "value": "普通の土で、栽培や建築に使用できます。"
+  },
+  {
+    "resourceKey": "grass",
+    "value": "草土"
+  },
+  {
+    "resourceKey": "grass_description",
+    "value": "草が生い茂る土で、温帯地域によく見られます。"
+  },
+  {
+    "resourceKey": "sand",
+    "value": "砂"
+  },
+  {
+    "resourceKey": "sand_description",
+    "value": "ゆるい砂粒で、砂漠や海岸によく見られます。"
+  },
+  {
+    "resourceKey": "snow",
+    "value": "雪"
+  },
+  {
+    "resourceKey": "snow_description",
+    "value": "寒冷地帯の積雪で、移動速度が低下します。"
+  },
+  {
+    "resourceKey": "wooden_pickaxe",
+    "value": "木のつるはし"
+  },
+  {
+    "resourceKey": "wooden_pickaxe_description",
+    "value": "木材で作られたつるはし"
+  },
+  {
+    "resourceKey": "simple_dig",
+    "value": "簡易採掘モジュール"
+  },
+  {
+    "resourceKey": "simple_dig_description",
+    "value": "効率は高くありませんが、安定して耐久性に優れています。"
+  },
+  {
+    "resourceKey": "standard_dig",
+    "value": "標準採掘モジュール"
+  },
+  {
+    "resourceKey": "standard_dig_description",
+    "value": "標準採掘モジュールで、性能がバランス良く、効率が安定しています。"
+  }
+]
