@@ -1,0 +1,20 @@
+resourceKey = "standard_dig"
+texture = "items/standard_dig.png"
+canUseAlone = false
+ability = "dig"
+
+[name]
+packId = "@self"
+resourceType = 1
+resourceKey = "standard_dig"
+
+[description]
+packId = "@self"
+resourceType = 1
+resourceKey = "standard_dig_description"
+
+[abilityConfig]
+[[abilityConfig.definition]]
+key = "efficiency"
+type = 1
+value = "1"

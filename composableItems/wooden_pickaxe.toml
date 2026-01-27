@@ -1,0 +1,13 @@
+resourceKey = "wooden_pickaxe"
+texture = "items/pickaxe.png"
+slotSize = 3
+
+[name]
+packId = "@self"
+resourceType = 1
+resourceKey = "wooden_pickaxe"
+
+[description]
+packId = "@self"
+resourceType = 1
+resourceKey = "wooden_pickaxe_description"

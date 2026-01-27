@@ -1,0 +1,63 @@
+[[string]]
+resourceKey = "dataPacksName"
+value = "微光工坊"
+
+[[string]]
+resourceKey = "dataPacksDescription"
+value = "微光工坊官方核心資料包，提供遊戲的基礎定義和內容。"
+
+[[string]]
+resourceKey = "dirt"
+value = "泥土"
+
+[[string]]
+resourceKey = "dirt_description"
+value = "普通的泥土，可以用於種植或建築。"
+
+[[string]]
+resourceKey = "grass"
+value = "草地"
+
+[[string]]
+resourceKey = "grass_description"
+value = "長滿青草的土地，常見於溫帶地區。"
+
+[[string]]
+resourceKey = "sand"
+value = "沙子"
+
+[[string]]
+resourceKey = "sand_description"
+value = "鬆散的沙粒，常見於沙漠或海灘。"
+
+[[string]]
+resourceKey = "snow"
+value = "雪"
+
+[[string]]
+resourceKey = "snow_description"
+value = "寒冷地區的積雪，會降低移動速度。"
+
+[[string]]
+resourceKey = "wooden_pickaxe"
+value = "木鎬"
+
+[[string]]
+resourceKey = "wooden_pickaxe_description"
+value = "木頭製作的鎬子"
+
+[[string]]
+resourceKey = "simple_dig"
+value = "簡易挖掘模組"
+
+[[string]]
+resourceKey = "simple_dig_description"
+value = "雖然效率不高，但是穩定耐用。"
+
+[[string]]
+resourceKey = "standard_dig"
+value = "標準挖掘模組"
+
+[[string]]
+resourceKey = "standard_dig_description"
+value = "標準挖掘模組，性能均衡，效率穩定。"

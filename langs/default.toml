@@ -1,0 +1,63 @@
+[[string]]
+resourceKey = "dataPacksName"
+value = "GlimmerWorks"
+
+[[string]]
+resourceKey = "dataPacksDescription"
+value = "The official core data pack for GlimmerWorks, providing essential game definitions and content."
+
+[[string]]
+resourceKey = "dirt"
+value = "dirt"
+
+[[string]]
+resourceKey = "dirt_description"
+value = "Ordinary soil can be used for planting or construction."
+
+[[string]]
+resourceKey = "grass"
+value = "grass"
+
+[[string]]
+resourceKey = "grass_description"
+value = "Grassy land, commonly found in temperate regions."
+
+[[string]]
+resourceKey = "sand"
+value = "sand"
+
+[[string]]
+resourceKey = "sand_description"
+value = "Loose grains of sand are commonly found in deserts or on beaches."
+
+[[string]]
+resourceKey = "snow"
+value = "snow"
+
+[[string]]
+resourceKey = "snow_description"
+value = "Snow accumulation in cold regions can slow down movement speed."
+
+[[string]]
+resourceKey = "wooden_pickaxe"
+value = "wooden pickaxe"
+
+[[string]]
+resourceKey = "wooden_pickaxe_description"
+value = "A pick made of wood"
+
+[[string]]
+resourceKey = "simple_dig"
+value = "Simple dig module"
+
+[[string]]
+resourceKey = "simple_dig_description"
+value = "Although not very efficient, it is stable and durable."
+
+[[string]]
+resourceKey = "standard_dig"
+value = "Standard dig module"
+
+[[string]]
+resourceKey = "standard_dig_description"
+value = "Standard mining module, with balanced performance and stable efficiency."
