@@ -61,3 +61,27 @@ value = "Standard dig module"
 [[string]]
 resourceKey = "standard_dig_description"
 value = "Standard mining module, with balanced performance and stable efficiency."
+
+[[string]]
+resourceKey = "oak_wood"
+value = "oak wood"
+
+[[string]]
+resourceKey = "oak_wood_description"
+value = "Sturdy and durable."
+
+[[string]]
+resourceKey = "oak_leaf"
+value = "oak leaf"
+
+[[string]]
+resourceKey = "oak_leaf_description"
+value = "Soft leaves."
+
+[[string]]
+resourceKey = "oak"
+value = "oak"
+
+[[string]]
+resourceKey = "oak_description"
+value = "The sturdy oak was damaged and the wooden planks fell off."

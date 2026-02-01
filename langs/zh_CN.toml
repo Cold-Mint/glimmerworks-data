@@ -61,3 +61,27 @@ value = "标准挖掘模块"
 [[string]]
 resourceKey = "standard_dig_description"
 value = "标准挖掘模块，性能均衡，效率稳定。"
+
+[[string]]
+resourceKey = "oak_wood"
+value = "橡木木板"
+
+[[string]]
+resourceKey = "oak_wood_description"
+value = "坚固耐用。"
+
+[[string]]
+resourceKey = "oak_leaf"
+value = "橡木树叶"
+
+[[string]]
+resourceKey = "oak_leaf_description"
+value = "松软的树叶。"
+
+[[string]]
+resourceKey = "oak"
+value = "橡木"
+
+[[string]]
+resourceKey = "oak_description"
+value = "坚固的橡木破坏后掉落木板。"

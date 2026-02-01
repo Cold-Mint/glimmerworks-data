@@ -61,3 +61,27 @@ value = "標準採掘モジュール"
 [[string]]
 resourceKey = "standard_dig_description"
 value = "標準採掘モジュールで、性能がバランス良く、効率が安定しています。"
+
+[[string]]
+resourceKey = "oak_wood"
+value = "オークの木板"
+
+[[string]]
+resourceKey = "oak_wood_description"
+value = "頑丈で耐久性に優れています。"
+
+[[string]]
+resourceKey = "oak_leaf"
+value = "オークの葉"
+
+[[string]]
+resourceKey = "oak_leaf_description"
+value = "柔らかい葉っぱ。"
+
+[[string]]
+resourceKey = "oak"
+value = "オーク"
+
+[[string]]
+resourceKey = "oak_description"
+value = "頑丈なオークの木が破壊されると、板が落下する。"

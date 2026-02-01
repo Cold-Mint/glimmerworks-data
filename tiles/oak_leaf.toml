@@ -1,0 +1,16 @@
+resourceKey = "oak_leaf"
+texture = "tiles/oak_leaf.png"
+physicsType = 1
+hardness = 0.2
+breakable = true
+layerType = 0
+
+[name]
+packId = "@self"
+resourceType = 1
+resourceKey = "oak_leaf"
+
+[description]
+packId = "@self"
+resourceType = 1
+resourceKey = "oak_leaf_description"

@@ -1,0 +1,7 @@
+resourceKey = "oak"
+
+[[mandatory]]
+[mandatory.item]
+packId = "@self"
+resourceType = 2
+resourceKey = "oak_wood"
