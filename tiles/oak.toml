@@ -4,6 +4,7 @@ physicsType = 1
 hardness = 1.5
 breakable = true
 layerType = 0
+customLootTable = true
 
 [name]
 packId = "@self"
@@ -14,3 +15,9 @@ resourceKey = "oak"
 packId = "@self"
 resourceType = 1
 resourceKey = "oak_description"
+
+[lootTable]
+packId = "@self"
+resourceType = 5
+resourceKey = "oak"
+
