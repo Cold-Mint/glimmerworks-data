@@ -4,11 +4,9 @@ temperature = 0.3
 weirdness = 0.0
 erosion = 1.0
 elevation = 0.7
-
-[[tilePlacerRefs]]
-id = "fillTilePlacer"
-
-[[tilePlacerRefs.tiles]]
+[[decorator]]
+id = "fill"
+[[decorator.tiles]]
 packId = "@self"
 resourceType = 2
 resourceKey = "snow"

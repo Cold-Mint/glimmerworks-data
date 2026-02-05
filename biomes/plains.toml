@@ -4,68 +4,18 @@ temperature = 0.5
 weirdness = 0.0
 erosion = 1.0
 elevation = 0.5
-
-[[tilePlacerRefs]]
-id = "fillTilePlacer"
-
-[[tilePlacerRefs.tiles]]
+[[decorator]]
+id = "fill"
+[[decorator.tiles]]
 packId = "@self"
 resourceType = 2
 resourceKey = "dirt"
-
-
-[[tilePlacerRefs]]
-id = "treeTilePlacer"
-
-[[tilePlacerRefs.tiles]]
+#The surface decorator is responsible for placing grass blocks on the soil.
+#表面装饰器负责在泥土上，放置草方块。
+[[decorator]]
+id = "surface"
+[[decorator.tiles]]
 packId = "@self"
 resourceType = 2
-resourceKey = "oak"
+resourceKey = "grass"
 
-[[tilePlacerRefs.tiles]]
-packId = "@self"
-resourceType = 2
-resourceKey = "oak_leaf"
-
-[tilePlacerRefs.config]
-#树木的最小高度
-[[tilePlacerRefs.config.definition]]
-key = "minHeight"
-type = 0
-value = "5"
-
-#树木的最大高度
-[[tilePlacerRefs.config.definition]]
-key = "maxHeight"
-type = 0
-value = "9"
-
-#树叶起点的高度(在哪个高度生成树叶)
-[[tilePlacerRefs.config.definition]]
-key = "leaveStartHeight"
-type = 0
-value = "5"
-
-#树叶的参数位置（下标）
-[[tilePlacerRefs.config.definition]]
-key = "leaveIndex"
-type = 0
-value = "1"
-
-#树木的参数位置（下标）
-[[tilePlacerRefs.config.definition]]
-key = "treeIndex"
-type = 0
-value = "0"
-
-#树叶的生成厚度
-[[tilePlacerRefs.config.definition]]
-key = "leafThickness"
-type = 0
-value = "3"
-
-#树木的生成间隔
-[[tilePlacerRefs.config.definition]]
-key = "treesInterval"
-type = 0
-value = "5"
