@@ -6,7 +6,7 @@ erosion = 1.0
 elevation = 0.7
 [[decorator]]
 id = "fill"
-[[decorator.tiles]]
+[[decorator.data]]
 packId = "@self"
 resourceType = 2
 resourceKey = "snow"

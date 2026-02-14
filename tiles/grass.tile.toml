@@ -4,6 +4,7 @@ physicsType = 1
 hardness = 0.82
 breakable = true
 layerType = 0
+customLootTable = true
 
 [name]
 packId = "@self"
@@ -14,3 +15,8 @@ resourceKey = "grass"
 packId = "@self"
 resourceType = 1
 resourceKey = "grass_description"
+
+[lootTable]
+packId = "@self"
+resourceType = 5
+resourceKey = "grass"
