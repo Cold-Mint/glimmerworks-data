@@ -17,4 +17,4 @@ resourceKey = "simple_dig_description"
 [[abilityConfig.definition]]
 key = "efficiency"
 type = 1
-value = "0.7"
+value = 0.7

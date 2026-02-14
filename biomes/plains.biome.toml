@@ -18,9 +18,18 @@ id = "surface"
 packId = "@self"
 resourceType = 2
 resourceKey = "grass"
-#[[decorator]]
-#id = "tree"
-#[[decorator.data]]
-#packId = "@self"
-#resourceType = 2
-#resourceKey = "grass"
+[[decorator]]
+id = "tree"
+[[decorator.data]]
+packId = "@self"
+resourceType = 2
+resourceKey = "oak"
+[[decorator.config]]
+[[decorator.config.definition]]
+key = "probability"
+value = 1
+type = 1
+[[decorator.config.definition]]
+key = "minDistance"
+value = 3
+type = 0
