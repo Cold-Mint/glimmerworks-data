@@ -1,6 +1,10 @@
 resourceKey = "wooden_pickaxe"
-texture = "items/pickaxe.png"
 slotSize = 3
+
+[texture]
+packId = "@self"
+resourceType = 7
+resourceKey = "items/pickaxe.png"
 
 [name]
 packId = "@self"

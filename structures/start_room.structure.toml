@@ -1,7 +1,6 @@
 resourceKey = "start_room"
 generatorId = "static"
 width = 12
-# 顶部 12 格木板
 [[data]]
 packId = "@self"
 resourceType = 2
@@ -50,12 +49,10 @@ resourceKey = "oak_wood"
 packId = "@self"
 resourceType = 2
 resourceKey = "oak_wood"
-# 第5行（左右墙）
 [[data]]
 packId = "@self"
 resourceType = 2
 resourceKey = "oak_wood"
-# 10 air
 [[data]]
 packId = "@core"
 resourceType = 2
@@ -100,13 +97,6 @@ resourceKey = "air"
 packId = "@self"
 resourceType = 2
 resourceKey = "oak_wood"
-
-# 第4行（左右墙）
-[[data]]
-packId = "@core"
-resourceType = 2
-resourceKey = "air"
-# 10 air
 [[data]]
 packId = "@core"
 resourceType = 2
@@ -151,14 +141,6 @@ resourceKey = "air"
 packId = "@core"
 resourceType = 2
 resourceKey = "air"
-
-# 第3行（带门）
-[[data]]
-packId = "@core"
-resourceType = 2
-resourceKey = "air"
-
-# 左侧 4 air
 [[data]]
 packId = "@core"
 resourceType = 2
@@ -175,18 +157,6 @@ resourceKey = "air"
 packId = "@core"
 resourceType = 2
 resourceKey = "air"
-
-# 门洞 2 格
-[[data]]
-packId = "@core"
-resourceType = 2
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = 2
-resourceKey = "air"
-
-# 右侧 4 air
 [[data]]
 packId = "@core"
 resourceType = 2
@@ -203,19 +173,6 @@ resourceKey = "air"
 packId = "@core"
 resourceType = 2
 resourceKey = "air"
-
-[[data]]
-packId = "@core"
-resourceType = 2
-resourceKey = "air"
-
-# 第2行（门第二层）
-[[data]]
-packId = "@core"
-resourceType = 2
-resourceKey = "air"
-
-# 左 4 air
 [[data]]
 packId = "@core"
 resourceType = 2
@@ -232,18 +189,6 @@ resourceKey = "air"
 packId = "@core"
 resourceType = 2
 resourceKey = "air"
-
-# 门
-[[data]]
-packId = "@core"
-resourceType = 2
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = 2
-resourceKey = "air"
-
-# 右 4 air
 [[data]]
 packId = "@core"
 resourceType = 2
@@ -260,15 +205,42 @@ resourceKey = "air"
 packId = "@core"
 resourceType = 2
 resourceKey = "air"
-
 [[data]]
 packId = "@core"
 resourceType = 2
 resourceKey = "air"
-
-
-
-# 第1行（地板）
+[[data]]
+packId = "@core"
+resourceType = 2
+resourceKey = "air"
+[[data]]
+packId = "@core"
+resourceType = 2
+resourceKey = "air"
+[[data]]
+packId = "@core"
+resourceType = 2
+resourceKey = "air"
+[[data]]
+packId = "@core"
+resourceType = 2
+resourceKey = "air"
+[[data]]
+packId = "@core"
+resourceType = 2
+resourceKey = "air"
+[[data]]
+packId = "@core"
+resourceType = 2
+resourceKey = "air"
+[[data]]
+packId = "@core"
+resourceType = 2
+resourceKey = "air"
+[[data]]
+packId = "@core"
+resourceType = 2
+resourceKey = "air"
 [[data]]
 packId = "@self"
 resourceType = 2

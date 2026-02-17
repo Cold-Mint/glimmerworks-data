@@ -1,7 +1,11 @@
 resourceKey = "standard_dig"
-texture = "items/standard_dig.png"
 canUseAlone = false
 ability = "dig"
+
+[texture]
+packId = "@self"
+resourceType = 7
+resourceKey = "items/standard_dig.png"
 
 [name]
 packId = "@self"

@@ -1,2 +1,56 @@
 resourceKey = "oak"
 generatorId = "tree"
+[[data]]
+packId = "@self"
+resourceType = 2
+resourceKey = "oak_leaf"
+[[data]]
+packId = "@self"
+resourceType = 2
+resourceKey = "oak"
+[generatorConfig]
+#树叶索引
+[[generatorConfig.definition]]
+key = "leafDataIndex"
+type = 0
+value = 0
+#树干索引
+[[generatorConfig.definition]]
+key = "trunkDataIndex"
+type = 0
+value = 1
+#最大树干高度
+[[generatorConfig.definition]]
+key = "trunkHeightMax"
+type = 0
+value = 9
+#最小树干高度
+[[generatorConfig.definition]]
+key = "trunkHeightMin"
+type = 0
+value = 3
+#是否拥有树叶
+[[generatorConfig.definition]]
+key = "hasLeaves"
+type = 2
+value = true
+#树叶半径
+[[generatorConfig.definition]]
+key = "leafRadius"
+type = 0
+value = 3
+#从顶部开始生成几团树叶？
+[[generatorConfig.definition]]
+key = "leafClusterCount"
+type = 0
+value = 1
+#每团树叶的y高度间隔
+[[generatorConfig.definition]]
+key = "leafVerticalSpacing"
+type = 0
+value = 1
+#树干宽度
+[[generatorConfig.definition]]
+key = "trunkWidth"
+type = 0
+value = 1

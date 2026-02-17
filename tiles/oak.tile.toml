@@ -1,10 +1,14 @@
 resourceKey = "oak"
-texture = "tiles/oak.png"
 physicsType = 1
 hardness = 1.5
 breakable = true
 layerType = 0
 customLootTable = true
+
+[texture]
+packId = "@self"
+resourceType = 7
+resourceKey = "tiles/oak.png"
 
 [name]
 packId = "@self"

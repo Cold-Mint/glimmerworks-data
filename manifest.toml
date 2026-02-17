@@ -14,3 +14,7 @@ resourceKey = "dataPacksName"
 packId = "@self"
 resourceType = 1
 resourceKey = "dataPacksDescription"
+
+[[packDependencies]]
+packId = "@core"
+minVersion = 1
