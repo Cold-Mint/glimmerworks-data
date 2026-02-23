@@ -7,20 +7,20 @@ customLootTable = true
 
 [texture]
 packId = "@self"
-resourceType = 7
+resourceType = "texture"
 resourceKey = "tiles/grass.png"
 
 [name]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "grass"
 
 [description]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "grass_description"
 
 [lootTable]
 packId = "@self"
-resourceType = 5
+resourceType = "loot"
 resourceKey = "grass"

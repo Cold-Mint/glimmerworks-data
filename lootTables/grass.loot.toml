@@ -5,6 +5,6 @@ min = 1
 max = 1
 [mandatory.item]
 packId = "@self"
-resourceType = 2
+resourceType = "tile"
 resourceKey = "dirt"
 

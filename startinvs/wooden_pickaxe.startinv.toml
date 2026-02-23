@@ -1,0 +1,12 @@
+resourceKey = "wooden_pickaxe"
+[[addItems]]
+packId = "@self"
+resourceType = "composable"
+resourceKey = "wooden_pickaxe"
+[[addItems.args]]
+name = "item_0"
+type = "ref"
+[addItems.args.data]
+packId = "@self"
+resourceType = "ability"
+resourceKey = "standard_dig"

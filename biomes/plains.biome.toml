@@ -8,7 +8,7 @@ elevation = 0.5
 id = "fill"
 [[decorator.data]]
 packId = "@self"
-resourceType = 2
+resourceType = "tile"
 resourceKey = "dirt"
 #The surface decorator is responsible for placing grass blocks on the soil.
 #表面装饰器负责在泥土上，放置草方块。
@@ -16,20 +16,5 @@ resourceKey = "dirt"
 id = "surface"
 [[decorator.data]]
 packId = "@self"
-resourceType = 2
+resourceType = "tile"
 resourceKey = "grass"
-[[decorator]]
-id = "tree"
-[[decorator.data]]
-packId = "@self"
-resourceType = 2
-resourceKey = "oak"
-[[decorator.config]]
-[[decorator.config.definition]]
-key = "probability"
-value = 1
-type = 1
-[[decorator.config.definition]]
-key = "minDistance"
-value = 3
-type = 0

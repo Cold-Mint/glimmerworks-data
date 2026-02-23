@@ -8,5 +8,5 @@ elevation = 0.7
 id = "fill"
 [[decorator.data]]
 packId = "@self"
-resourceType = 2
+resourceType = "tile"
 resourceKey = "snow"

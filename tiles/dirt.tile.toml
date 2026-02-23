@@ -6,15 +6,15 @@ layerType = 0
 
 [texture]
 packId = "@self"
-resourceType = 7
+resourceType = "texture"
 resourceKey = "tiles/dirt.png"
 
 [name]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "dirt"
 
 [description]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "dirt_description"

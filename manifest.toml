@@ -7,12 +7,12 @@ minGameVersion = 1
 
 [name]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "dataPacksName"
 
 [description]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "dataPacksDescription"
 
 [[packDependencies]]

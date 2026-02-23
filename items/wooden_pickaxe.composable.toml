@@ -3,15 +3,15 @@ slotSize = 3
 
 [texture]
 packId = "@self"
-resourceType = 7
+resourceType = "texture"
 resourceKey = "items/pickaxe.png"
 
 [name]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "wooden_pickaxe"
 
 [description]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "wooden_pickaxe_description"

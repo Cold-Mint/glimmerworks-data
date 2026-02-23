@@ -6,15 +6,15 @@ layerType = 0
 
 [texture]
 packId = "@self"
-resourceType = 7
+resourceType = "texture"
 resourceKey = "tiles/oak_wood.png"
 
 [name]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "oak_wood"
 
 [description]
 packId = "@self"
-resourceType = 1
+resourceType = "string"
 resourceKey = "oak_wood_description"
