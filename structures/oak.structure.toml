@@ -6,7 +6,6 @@ generatorId = "tree"
 processorId = "surface"
 [[condition]]
 processorId = "biome"
-[condition.config]
 [[condition.config.definition]]
 key = "biome_0"
 type = "ref"

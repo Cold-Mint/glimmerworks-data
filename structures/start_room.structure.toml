@@ -1,291 +1,422 @@
 resourceKey = "start_room"
 generatorId = "static"
-width = 12
-[[data]]
+[[tileInfo]]
+x = 0
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 1
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 2
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 3
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 4
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 5
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 6
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 7
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 8
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 9
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 10
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 11
+y = 0
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 0
+y = 1
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 1
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 2
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 3
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 4
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 5
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 6
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 7
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 8
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 9
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 10
+y = 1
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 11
+y = 1
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_wood"
-[[data]]
+[[tileInfo]]
+x = 0
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 1
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 2
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 3
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 4
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 5
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 6
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 7
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 8
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 9
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 10
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 11
+y = 2
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 0
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 1
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 2
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 3
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 4
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 5
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 6
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 7
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 8
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 9
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 10
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 11
+y = 3
+[tileInfo.tile]
 packId = "@core"
 resourceType = "tile"
 resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
-packId = "@core"
-resourceType = "tile"
-resourceKey = "air"
-[[data]]
+[[tileInfo]]
+x = 0
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 1
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 2
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 3
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 4
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 5
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 6
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 7
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 8
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 9
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 10
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
-[[data]]
+[[tileInfo]]
+x = 11
+y = 4
+[tileInfo.tile]
 packId = "@self"
 resourceType = "tile"
 resourceKey = "oak_leaf"
