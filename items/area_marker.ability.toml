@@ -1,0 +1,13 @@
+resourceKey = "area_marker"
+canUseAlone = true
+ability = "areaMarker"
+
+[texture]
+packId = "@self"
+resourceType = "texture"
+resourceKey = "items/simple_dig.png"
+
+[name]
+packId = "@self"
+resourceType = "string"
+resourceKey = "area_marker"

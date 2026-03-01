@@ -12,11 +12,6 @@ packId = "@self"
 resourceType = "string"
 resourceKey = "standard_dig"
 
-[description]
-packId = "@self"
-resourceType = "string"
-resourceKey = "standard_dig_description"
-
 [abilityConfig]
 [[abilityConfig.definition]]
 key = "efficiency"

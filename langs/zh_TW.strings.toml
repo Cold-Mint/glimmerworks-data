@@ -10,78 +10,69 @@ value = "微光工坊官方核心資料包，提供遊戲的基礎定義和內�
 resourceKey = "dirt"
 value = "泥土"
 
-[[string]]
-resourceKey = "dirt_description"
-value = "普通的泥土，可以用於種植或建築。"
 
 [[string]]
 resourceKey = "grass"
 value = "草地"
 
-[[string]]
-resourceKey = "grass_description"
-value = "長滿青草的土地，常見於溫帶地區。"
 
 [[string]]
 resourceKey = "sand"
 value = "沙子"
 
-[[string]]
-resourceKey = "sand_description"
-value = "鬆散的沙粒，常見於沙漠或海灘。"
 
 [[string]]
 resourceKey = "snow"
 value = "雪"
 
-[[string]]
-resourceKey = "snow_description"
-value = "寒冷地區的積雪，會降低移動速度。"
 
 [[string]]
 resourceKey = "wooden_pickaxe"
 value = "木鎬"
 
 [[string]]
-resourceKey = "wooden_pickaxe_description"
-value = "木頭製作的鎬子"
-
-[[string]]
 resourceKey = "simple_dig"
 value = "簡易挖掘模組"
 
-[[string]]
-resourceKey = "simple_dig_description"
-value = "雖然效率不高，但是穩定耐用。"
 
 [[string]]
 resourceKey = "standard_dig"
 value = "標準挖掘模組"
 
 [[string]]
-resourceKey = "standard_dig_description"
-value = "標準挖掘模組，性能均衡，效率穩定。"
-
-[[string]]
 resourceKey = "oak_wood"
 value = "橡木木闆"
-
-[[string]]
-resourceKey = "oak_wood_description"
-value = "堅固耐用。"
 
 [[string]]
 resourceKey = "oak_leaf"
 value = "橡木樹葉"
 
-[[string]]
-resourceKey = "oak_leaf_description"
-value = "鬆軟的樹葉。"
 
 [[string]]
 resourceKey = "oak"
 value = "橡木"
 
+
 [[string]]
-resourceKey = "oak_description"
-value = "堅固的橡木破壞後掉落木闆。"
+resourceKey = "area_marker"
+value = "精準測繪儀"
+
+[[string]]
+resourceKey = "mining_gain_1"
+value = "採掘增益I"
+
+[[string]]
+resourceKey = "mining_gain_2"
+value = "採掘增益II"
+
+[[string]]
+resourceKey = "mining_gain_3"
+value = "採掘增益III"
+
+[[string]]
+resourceKey = "mining_gain_4"
+value = "採掘增益IV"
+
+[[string]]
+resourceKey = "mining_gain_5"
+value = "採掘增益V"

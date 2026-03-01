@@ -10,8 +10,3 @@ resourceKey = "items/pickaxe.png"
 packId = "@self"
 resourceType = "string"
 resourceKey = "wooden_pickaxe"
-
-[description]
-packId = "@self"
-resourceType = "string"
-resourceKey = "wooden_pickaxe_description"

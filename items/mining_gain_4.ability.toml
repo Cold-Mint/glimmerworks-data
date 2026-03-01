@@ -1,6 +1,6 @@
-resourceKey = "simple_dig"
+resourceKey = "mining_gain_4"
 canUseAlone = false
-ability = "dig"
+ability = "none"
 
 [texture]
 packId = "@self"
@@ -10,10 +10,10 @@ resourceKey = "items/simple_dig.png"
 [name]
 packId = "@self"
 resourceType = "string"
-resourceKey = "simple_dig"
+resourceKey = "mining_gain_4"
 
 [abilityConfig]
 [[abilityConfig.definition]]
 key = "efficiency"
 type = "float"
-value = 0.7
+value = 2.4

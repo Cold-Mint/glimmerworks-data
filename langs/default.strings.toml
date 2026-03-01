@@ -11,77 +11,72 @@ resourceKey = "dirt"
 value = "dirt"
 
 [[string]]
-resourceKey = "dirt_description"
-value = "Ordinary soil can be used for planting or construction."
-
-[[string]]
 resourceKey = "grass"
 value = "grass"
-
-[[string]]
-resourceKey = "grass_description"
-value = "Grassy land, commonly found in temperate regions."
 
 [[string]]
 resourceKey = "sand"
 value = "sand"
 
-[[string]]
-resourceKey = "sand_description"
-value = "Loose grains of sand are commonly found in deserts or on beaches."
 
 [[string]]
 resourceKey = "snow"
 value = "snow"
 
-[[string]]
-resourceKey = "snow_description"
-value = "Snow accumulation in cold regions can slow down movement speed."
 
 [[string]]
 resourceKey = "wooden_pickaxe"
 value = "wooden pickaxe"
 
-[[string]]
-resourceKey = "wooden_pickaxe_description"
-value = "A pick made of wood"
 
 [[string]]
 resourceKey = "simple_dig"
 value = "Simple dig module"
 
-[[string]]
-resourceKey = "simple_dig_description"
-value = "Although not very efficient, it is stable and durable."
+
 
 [[string]]
 resourceKey = "standard_dig"
 value = "Standard dig module"
 
-[[string]]
-resourceKey = "standard_dig_description"
-value = "Standard mining module, with balanced performance and stable efficiency."
 
 [[string]]
 resourceKey = "oak_wood"
 value = "oak wood"
 
-[[string]]
-resourceKey = "oak_wood_description"
-value = "Sturdy and durable."
 
 [[string]]
 resourceKey = "oak_leaf"
 value = "oak leaf"
 
-[[string]]
-resourceKey = "oak_leaf_description"
-value = "Soft leaves."
 
 [[string]]
 resourceKey = "oak"
 value = "oak"
 
+
 [[string]]
-resourceKey = "oak_description"
-value = "The sturdy oak was damaged and the wooden planks fell off."
+resourceKey = "area_marker"
+value = "Precision surveying instrument"
+
+[[string]]
+resourceKey = "mining_gain_1"
+value = "Mining Bonus I"
+
+
+[[string]]
+resourceKey = "mining_gain_2"
+value = "Mining Bonus II"
+
+
+[[string]]
+resourceKey = "mining_gain_3"
+value = "Mining Bonus III"
+
+[[string]]
+resourceKey = "mining_gain_4"
+value = "Mining Bonus IV"
+
+[[string]]
+resourceKey = "mining_gain_5"
+value = "Mining Bonus V"

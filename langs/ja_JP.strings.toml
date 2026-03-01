@@ -11,77 +11,69 @@ resourceKey = "dirt"
 value = "土"
 
 [[string]]
-resourceKey = "dirt_description"
-value = "普通の土で、栽培や建築に使用できます。"
-
-[[string]]
 resourceKey = "grass"
 value = "草土"
 
-[[string]]
-resourceKey = "grass_description"
-value = "草が生い茂る土で、温帯地域によく見られます。"
 
 [[string]]
 resourceKey = "sand"
 value = "砂"
 
-[[string]]
-resourceKey = "sand_description"
-value = "ゆるい砂粒で、砂漠や海岸によく見られます。"
 
 [[string]]
 resourceKey = "snow"
 value = "雪"
 
-[[string]]
-resourceKey = "snow_description"
-value = "寒冷地帯の積雪で、移動速度が低下します。"
 
 [[string]]
 resourceKey = "wooden_pickaxe"
 value = "木のつるはし"
 
-[[string]]
-resourceKey = "wooden_pickaxe_description"
-value = "木材で作られたつるはし"
 
 [[string]]
 resourceKey = "simple_dig"
 value = "簡易採掘モジュール"
 
-[[string]]
-resourceKey = "simple_dig_description"
-value = "効率は高くありませんが、安定して耐久性に優れています。"
 
 [[string]]
 resourceKey = "standard_dig"
 value = "標準採掘モジュール"
 
-[[string]]
-resourceKey = "standard_dig_description"
-value = "標準採掘モジュールで、性能がバランス良く、効率が安定しています。"
 
 [[string]]
 resourceKey = "oak_wood"
 value = "オークの木板"
 
-[[string]]
-resourceKey = "oak_wood_description"
-value = "頑丈で耐久性に優れています。"
 
 [[string]]
 resourceKey = "oak_leaf"
 value = "オークの葉"
 
 [[string]]
-resourceKey = "oak_leaf_description"
-value = "柔らかい葉っぱ。"
-
-[[string]]
 resourceKey = "oak"
 value = "オーク"
 
+
 [[string]]
-resourceKey = "oak_description"
-value = "頑丈なオークの木が破壊されると、板が落下する。"
+resourceKey = "area_marker"
+value = "せいみつそくていき"
+
+[[string]]
+resourceKey = "mining_gain_1"
+value = "採掘ブーストⅠ"
+
+[[string]]
+resourceKey = "mining_gain_2"
+value = "採掘ブーストⅡ"
+
+[[string]]
+resourceKey = "mining_gain_3"
+value = "採掘ブーストⅢ"
+
+[[string]]
+resourceKey = "mining_gain_4"
+value = "採掘ブーストⅣ"
+
+[[string]]
+resourceKey = "mining_gain_5"
+value = "採掘ブーストⅤ"
