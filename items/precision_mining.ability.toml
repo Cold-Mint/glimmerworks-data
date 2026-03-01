@@ -1,0 +1,19 @@
+resourceKey = "precision_mining"
+canUseAlone = false
+ability = "none"
+
+[texture]
+packId = "@self"
+resourceType = "texture"
+resourceKey = "items/simple_dig.png"
+
+[name]
+packId = "@self"
+resourceType = "string"
+resourceKey = "precision_mining"
+
+[abilityConfig]
+[[abilityConfig.definition]]
+key = "precisionMining"
+type = "bool"
+value = true

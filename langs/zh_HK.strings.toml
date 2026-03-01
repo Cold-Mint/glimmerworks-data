@@ -78,3 +78,19 @@ value = "採掘增益IV"
 [[string]]
 resourceKey = "mining_gain_5"
 value = "採掘增益V"
+
+[[string]]
+resourceKey = "precision_mining"
+value = "精準采集"
+
+[[string]]
+resourceKey = "fumble_chance_1"
+value = "手滑I"
+
+[[string]]
+resourceKey = "fumble_chance_2"
+value = "手滑II"
+
+[[string]]
+resourceKey = "fumble_chance_3"
+value = "手滑III"

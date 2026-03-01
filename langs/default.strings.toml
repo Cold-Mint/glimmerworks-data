@@ -80,3 +80,19 @@ value = "Mining Bonus IV"
 [[string]]
 resourceKey = "mining_gain_5"
 value = "Mining Bonus V"
+
+[[string]]
+resourceKey = "precision_mining"
+value = "Precision Mining"
+
+[[string]]
+resourceKey = "fumble_chance_1"
+value = "Fumble I"
+
+[[string]]
+resourceKey = "fumble_chance_2"
+value = "Fumble II"
+
+[[string]]
+resourceKey = "fumble_chance_3"
+value = "Fumble III"

@@ -1,0 +1,19 @@
+resourceKey = "fumble_chance_1"
+canUseAlone = false
+ability = "none"
+
+[texture]
+packId = "@self"
+resourceType = "texture"
+resourceKey = "items/simple_dig.png"
+
+[name]
+packId = "@self"
+resourceType = "string"
+resourceKey = "fumble_chance_1"
+
+[abilityConfig]
+[[abilityConfig.definition]]
+key = "fumbleChance"
+type = "float"
+value = 0.05

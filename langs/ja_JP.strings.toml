@@ -77,3 +77,19 @@ value = "採掘ブーストⅣ"
 [[string]]
 resourceKey = "mining_gain_5"
 value = "採掘ブーストⅤ"
+
+[[string]]
+resourceKey = "precision_mining"
+value = "せいみつさいくつ"
+
+[[string]]
+resourceKey = "fumble_chance_1"
+value = "滑り手 I"
+
+[[string]]
+resourceKey = "fumble_chance_2"
+value = "滑り手 II"
+
+[[string]]
+resourceKey = "fumble_chance_3"
+value = "滑り手 III"
