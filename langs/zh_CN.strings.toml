@@ -95,3 +95,15 @@ value = "手滑II"
 [[string]]
 resourceKey = "fumble_chance_3"
 value = "手滑III"
+
+[[string]]
+resourceKey = "chain_mining_1"
+value = "连锁采集I"
+
+[[string]]
+resourceKey = "chain_mining_2"
+value = "连锁采集II"
+
+[[string]]
+resourceKey = "chain_mining_3"
+value = "连锁采集III"

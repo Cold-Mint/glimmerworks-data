@@ -93,3 +93,15 @@ value = "滑り手 II"
 [[string]]
 resourceKey = "fumble_chance_3"
 value = "滑り手 III"
+
+[[string]]
+resourceKey = "chain_mining_1"
+value = "チェーン収集 I"
+
+[[string]]
+resourceKey = "chain_mining_2"
+value = "チェーン収集 II"
+
+[[string]]
+resourceKey = "chain_mining_3"
+value = "チェーン収集 III"

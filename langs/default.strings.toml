@@ -96,3 +96,15 @@ value = "Fumble II"
 [[string]]
 resourceKey = "fumble_chance_3"
 value = "Fumble III"
+
+[[string]]
+resourceKey = "chain_mining_1"
+value = "Chain Mining I"
+
+[[string]]
+resourceKey = "chain_mining_2"
+value = "Chain Mining II"
+
+[[string]]
+resourceKey = "chain_mining_3"
+value = "Chain Mining III"

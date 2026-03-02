@@ -1,8 +1,8 @@
 resourceKey = "oak_leaf"
 physicsType = 1
 hardness = 0.2
-breakable = true
 layerType = 0
+allowChainMining = true
 
 [texture]
 packId = "@self"

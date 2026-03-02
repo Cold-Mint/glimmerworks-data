@@ -1,5 +1,5 @@
-resourceKey = "mining_gain_3"
-canUseAlone = false
+resourceKey = "chain_mining_3"
+canUseAlone = true
 ability = "none"
 
 [texture]
@@ -10,10 +10,10 @@ resourceKey = "items/data_module.png"
 [name]
 packId = "@self"
 resourceType = "string"
-resourceKey = "mining_gain_3"
+resourceKey = "chain_mining_3"
 
 [abilityConfig]
 [[abilityConfig.definition]]
-key = "efficiency"
-type = "float"
-value = 1.8
+key = "chainMiningRadius"
+type = "int"
+value = 9

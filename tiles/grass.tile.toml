@@ -1,7 +1,6 @@
 resourceKey = "grass"
 physicsType = 1
 hardness = 0.82
-breakable = true
 layerType = 0
 customLootTable = true
 

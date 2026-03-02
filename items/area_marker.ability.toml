@@ -5,7 +5,7 @@ ability = "areaMarker"
 [texture]
 packId = "@self"
 resourceType = "texture"
-resourceKey = "items/simple_dig.png"
+resourceKey = "items/data_module.png"
 
 [name]
 packId = "@self"
